@@ -87,6 +87,6 @@ Thank you for visiting this repository. Don't forget to star the repo and subscr
 
 Author
 
-This project is created and maintained by [Yarana IoT Guru](https://www.youtube.com/channel/UCnY8h_OIjA37e9EvbOefxWg).
+This project is created and maintained by [Yarana IoT Guru](https://www.youtube.com/@YaranaIotGuru).
 
 
